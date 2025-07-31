@@ -1,5 +1,9 @@
 Online Payments Fraud Detection
+
+
 Abstract
+
+
 Financial transactions have been changed by the exponential expansion of internet payment systems, which now offer speed and ease. But this expansion has also raised the risk of fraud for both financial institutions and users. The increasing use of online payments has led to a rise in the complexity and scope of fraudulent activity, which has resulted in significant financial losses. Hence, there is a compelling demand for improved fraud detection systems that not only detect fraud in real time but also decrease false positives, providing a flawless user experience. This project aims to address online payment fraud by developing a machine learning-based fraud detection system. The research question guiding this study is: How can machine learning algorithms be applied to accurately detect fraudulent online payment transactions while reducing false alarms? and Which transaction amount type is more frequently associated with fraudulent activities? The project will utilize the Online Payment Fraud Detection Dataset from Kaggle, which includes transaction features such as transaction type, amounts, and account balances. The difficulty of the issue is increased by the dataset's inherent class imbalance, of which fraudulent transactions make only a minor portion. The key columns in the dataset include:
 
 step: represents a unit of time where 1 step equals 1 hour
